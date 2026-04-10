@@ -2,7 +2,7 @@
 
 Read-only SQL assistant with SQLite + OpenAI API.
 
-System Review Video:
+System Review Video (Recommend turn on the subtitle):
 
 [![Chat To Query](http://img.youtube.com/vi/gIeVEGgdGoY/0.jpg)](http://www.youtube.com/watch?v=gIeVEGgdGoY "Chat To Query")
 
